@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Universe
 - 📫 How to reach me: karan.agarwal1742@gmail.com
 
+<p align="center">
 # 🔥 Skills 🔥
 
 ### 🔹Programming Languages:ㅤㅤ
@@ -33,3 +34,39 @@ Here are some ideas to get you started:-->
     </a>
 </p>
 
+### 🔹Technologies:
+
+<p style="padding:10px;">
+    <a href="https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQjwlemWBhDUARIsAFp1rLUvympAYoBRc9jHjawZeB1QEcEerEj9Oe0DwIMwSayAXtY4aS-k-B0aAm68EALw_wcB" target="_blank"> 
+      <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height=40 width=50 /> 
+    </a>
+    <a href="https://pytorch.org/" target="_blank"> 
+      <img src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg" height=40 width=50 /> 
+    </a>
+    <a href="https://www.mathworks.com/help/matlab/" target="_blank"> 
+      <img src="https://img.icons8.com/fluency/48/000000/matlab.png" height=40 width=50 />
+    </a>
+    <a href="https://developer.salesforce.com/docs" target="_blank"> 
+      <img src="https://img.icons8.com/color/48/000000/salesforce.png" height=40 width=50 /> 
+    </a>
+</p>
+
+### 🔹Tools:
+
+<p style="padding:10px;">
+    <a href="https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb" target="_blank"> 
+      <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" height=40 width=50 /> 
+    </a>
+    <a href="https://www.latex-project.org/help/documentation/" target="_blank"> 
+      <img src="https://img.icons8.com/fluency/48/000000/texshop.png" height=40 width=50 /> 
+    </a>
+    <a href="https://docs.rstudio.com/" target="_blank"> 
+      <img src="https://img.icons8.com/fluency/48/000000/rstudio.png" height=40 width=50/>
+    </a>
+    <a href="https://code.visualstudio.com/docs" target="_blank"> 
+      <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" height=40 width=50 /> 
+    </a>
+    <a href="https://docs.roboflow.com/" target="_blank"> 
+      <img src="https://www.youtube.com/c/roboflow" height=40 width=50 /> 
+    </a>
+</p>
