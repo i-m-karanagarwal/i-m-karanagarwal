@@ -55,7 +55,7 @@ Here are some ideas to get you started:-->
 
 <p style="padding:10px;">
     <a href="https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/01.01-Help-And-Documentation.ipynb" target="_blank"> 
-      <img src="https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg" height=40 width=50 /> 
+      <img src="Google_Colaboratory_SVG_Logo.svg" height=40 width=50 /> 
     </a>
     <a href="https://www.latex-project.org/help/documentation/" target="_blank"> 
       <img src="https://img.icons8.com/fluency/48/000000/texshop.png" height=40 width=50 /> 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:-->
       <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" height=40 width=50 /> 
     </a>
     <a href="https://docs.roboflow.com/" target="_blank"> 
-      <img src="https://www.youtube.com/c/roboflow" height=40 width=50 /> 
+      <img src="roboflow.png" height=40 width=50 /> 
     </a>
 </p>
 </p>
