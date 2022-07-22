@@ -41,7 +41,7 @@ Here are some ideas to get you started:-->
       <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height=40 width=50 /> 
     </a>
     <a href="https://pytorch.org/" target="_blank"> 
-      <img src="https://commons.wikimedia.org/wiki/File:PyTorch_logo_icon.svg" height=40 width=50 /> 
+      <img src="PyTorch_logo_icon.svg" height=40 width=50 /> 
     </a>
     <a href="https://www.mathworks.com/help/matlab/" target="_blank"> 
       <img src="https://img.icons8.com/fluency/48/000000/matlab.png" height=40 width=50 />
