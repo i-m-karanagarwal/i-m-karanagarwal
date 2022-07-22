@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
       <img src="https://img.icons8.com/stickers/100/000000/c--v2.png" height=40 width=50 /> 
     </a>
     <a href="https://devdocs.io/cpp/" target="_blank"> 
-      <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png" height=40 width=50 /> 
+      <img src="https://img.icons8.com/ios/50/000000/c-plus-plus.png" height=40 width=50 /> 
     </a>
     <a href="https://www.java.com" target="_blank"> 
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:-->
       <img src="https://img.icons8.com/color/48/000000/python--v1.png" height=40 width=50 /> 
     </a>
     <a href="https://www.r-project.org/other-docs.html" target="_blank"> 
-      <img src="https://img.icons8.com/office/16/000000/registered-trademark.png" height=40 width=50 /> 
+      <img src="https://img.icons8.com/office/80/000000/registered-trademark.png" height=40 width=50 /> 
     </a>
 </p>
 
