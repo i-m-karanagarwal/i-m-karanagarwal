@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Computer Vision
+- 🔭 I’m currently working on Computer Vision
+- 🌱 I’m currently learning GIS and Remote Sensing
 - 💬 Ask me about Universe
 - 📫 How to reach me: karan.agarwal1742@gmail.com
 
