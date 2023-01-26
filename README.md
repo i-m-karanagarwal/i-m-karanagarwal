@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: karan.agarwal1742@gmail.com
 
 <p align="center">
-# 🔥 Skills 🔥
+#🔥 Skills 🔥
 
 ### 🔹Programming Languages:ㅤㅤ
 
