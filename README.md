@@ -1,10 +1,6 @@
 ### Hi there 👋 I'm Karan Agarwal
 <p align="center"><img src="animation.gif" width="35%"></p>
 
-<!--
-**i-m-karanagarwal/i-m-karanagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning GIS and Remote Sensing
@@ -12,7 +8,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: karan.agarwal1742@gmail.com
 
 <p align="center">
-#Skills
 
 ### 🔹Programming Languages:ㅤㅤ
 
