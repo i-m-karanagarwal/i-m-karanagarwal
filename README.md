@@ -71,3 +71,6 @@ Here are some ideas to get you started:-->
     </a>
 </p>
 </p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=i-m-karanagarwal)](https://git.io/streak-stats)
