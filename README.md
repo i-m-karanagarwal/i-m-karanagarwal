@@ -66,7 +66,8 @@
     </a>
 </p>
 </p>
-
-
+<a href="https://github.com/i-m-karanagarwal/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=i-m-karanagarwal&theme=aura&show_icons=true" />
+</a>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=i-m-karanagarwal)](https://git.io/streak-stats)
 
